@@ -13,7 +13,7 @@ public class UnzipAZipFile {
 	
 	private static final Logger log = Logger.getLogger( UnzipAZipFile.class.getName() );
 
-	private static final String SOURCE_ZIP_FILE = "src/main/resources/input/nlp_data.zip";
+	/*private static final String SOURCE_ZIP_FILE = "src/main/resources/input/nlp_data.zip";
 
 	private static final String OUTPUT_FOLDER = "src/main/resources/output";
 
@@ -22,7 +22,7 @@ public class UnzipAZipFile {
 		
 		UnzipAZipFile.unzip(SOURCE_ZIP_FILE, OUTPUT_FOLDER);
 		UnzipAZipFile.getOutputPath(SOURCE_ZIP_FILE, OUTPUT_FOLDER);
-	}
+	}*/
 
 	/**
 	 * Size of the buffer to read/write data
@@ -37,7 +37,7 @@ public class UnzipAZipFile {
 	 * @param destDirectory
 	 * @throws IOException
 	 */
-	public static void unzip(String zipFilePath, String destDirectory)
+	private static void unzip(String zipFilePath, String destDirectory)
 			throws IOException {
 		File destDir = new File(destDirectory);
 		

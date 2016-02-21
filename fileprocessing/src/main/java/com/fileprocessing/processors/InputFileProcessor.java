@@ -34,8 +34,6 @@ public class InputFileProcessor {
 	
 	private static Pattern nounPattern;
 	
-	
-	
 	static{
 	 
 		patternString = buildPoperNounPattern();
@@ -64,14 +62,8 @@ public class InputFileProcessor {
 		//log.info(xmlOutput);
 		return xmlOutput;
 	}
-	
-	public static void main(String [] args) throws FileNotFoundException, IOException{
-		FileSystem fs = FileSystems.getDefault();
-		Path path1 = fs.getPath("src/main/resources/input/nlp_data.txt");
-		processFile(path1);
-	}
 	/**
-	 * Conerts object model to XML file representation
+	 * Construct object model to XML file representation
 	 * @param fileComponent
 	 * @return
 	 */
@@ -119,9 +111,11 @@ public class InputFileProcessor {
 		log.info(patternStr.toString());
 		return patternStr.toString();
 	}
-	
-	
-	
+	/**
+	 * 
+	 * @param inputString
+	 * @return
+	 */
 	private static List<NounEntity> getMatchingSentencePortion(String inputString){
 		
 		List<NounEntity> nounList = new ArrayList<>();
@@ -142,9 +136,9 @@ public class InputFileProcessor {
 	 * @param input
 	 * @return
 	 */
-	public static Iterable<MatchResult> allMatches(
+	private static Iterable<MatchResult> allMatches(
 		      final Pattern p, final CharSequence input) {
-		  return new Iterable<MatchResult>() {
+		  	return new Iterable<MatchResult>() {
 		    public Iterator<MatchResult> iterator() {
 		      return new Iterator<MatchResult>() {
 		        // Use a matcher internally.
@@ -177,4 +171,9 @@ public class InputFileProcessor {
 		    }
 		  };
 		}
+	/*public static void main(String [] args) throws FileNotFoundException, IOException{
+		FileSystem fs = FileSystems.getDefault();
+		Path path1 = fs.getPath("src/main/resources/input/nlp_data.txt");
+		processFile(path1);
+	}*/
 }

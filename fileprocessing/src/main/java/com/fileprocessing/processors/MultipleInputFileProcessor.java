@@ -29,12 +29,6 @@ public class MultipleInputFileProcessor {
 	
 	private static final String XML_OUTPUT_FOLDER = "src/main/resources/xmloutput";
 	
-	public static void main(String[] args) throws IOException, InterruptedException{
-		
-		//processCompressedFile();
-		processSingleFile();
-	}
-	
 	/**
 	 * Method to process a single file 
 	 * In this case it processes nlp_data.txt
@@ -180,5 +174,10 @@ public class MultipleInputFileProcessor {
 		writer.write(xmlString);
 		writer.close();
 	}
+	/*public static void main(String[] args) throws IOException, InterruptedException{
+		
+		//processCompressedFile();
+		processSingleFile();
+	}*/
 }
 
