@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fileComponent>
+    <sentenceList>
+        <nounList>
+            <entityName>James Clerk Maxwell</entityName>
+            <position>0</position>
+            <sentenceFragment></sentenceFragment>
+        </nounList>
+        <sentence>James Clerk Maxwell 
+
+
+
+was a Scottish mathematical physicist</sentence>
+        <words>James</words>
+        <words>Clerk</words>
+        <words>Maxwell</words>
+        <words>was</words>
+        <words>a</words>
+        <words>Scottish</words>
+        <words>mathematical</words>
+        <words>physicist</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> His most notable achievement was to formulate the classical theory of electromagnetic radiation, bringing together for the first time electricity, magnetism, and light as manifestations of the same phenomenon</sentence>
+        <words></words>
+        <words>His</words>
+        <words>most</words>
+        <words>notable</words>
+        <words>achievement</words>
+        <words>was</words>
+        <words>to</words>
+        <words>formulate</words>
+        <words>the</words>
+        <words>classical</words>
+        <words>theory</words>
+        <words>of</words>
+        <words>electromagnetic</words>
+        <words>radiation,</words>
+        <words>bringing</words>
+        <words>together</words>
+        <words>for</words>
+        <words>the</words>
+        <words>first</words>
+        <words>time</words>
+        <words>electricity,</words>
+        <words>magnetism,</words>
+        <words>and</words>
+        <words>light</words>
+        <words>as</words>
+        <words>manifestations</words>
+        <words>of</words>
+        <words>the</words>
+        <words>same</words>
+        <words>phenomenon</words>
+    </sentenceList>
+    <sentenceList>
+        <nounList>
+            <entityName>Isaac Newton</entityName>
+            <position>141</position>
+            <sentenceFragment> Maxwell's equations for electromagnetism have been called the "second great unification in physics" after the first one realised by        
+</sentenceFragment>
+        </nounList>
+        <sentence> Maxwell's equations for electromagnetism have been called the "second great unification in physics" after the first one realised by        
+Isaac Newton</sentence>
+        <words></words>
+        <words>Maxwell's</words>
+        <words>equations</words>
+        <words>for</words>
+        <words>electromagnetism</words>
+        <words>have</words>
+        <words>been</words>
+        <words>called</words>
+        <words>the</words>
+        <words>"second</words>
+        <words>great</words>
+        <words>unification</words>
+        <words>in</words>
+        <words>physics"</words>
+        <words>after</words>
+        <words>the</words>
+        <words>first</words>
+        <words>one</words>
+        <words>realised</words>
+        <words>by</words>
+        <words>Isaac</words>
+        <words>Newton</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> Maxwell demonstrated that electric and magnetic fields travel through space as waves moving at the speed of light</sentence>
+        <words></words>
+        <words>Maxwell</words>
+        <words>demonstrated</words>
+        <words>that</words>
+        <words>electric</words>
+        <words>and</words>
+        <words>magnetic</words>
+        <words>fields</words>
+        <words>travel</words>
+        <words>through</words>
+        <words>space</words>
+        <words>as</words>
+        <words>waves</words>
+        <words>moving</words>
+        <words>at</words>
+        <words>the</words>
+        <words>speed</words>
+        <words>of</words>
+        <words>light</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> Maxwell proposed that light is an undulation in the same medium that is the cause of electric and magnetic phenomena</sentence>
+        <words></words>
+        <words>Maxwell</words>
+        <words>proposed</words>
+        <words>that</words>
+        <words>light</words>
+        <words>is</words>
+        <words>an</words>
+        <words>undulation</words>
+        <words>in</words>
+        <words>the</words>
+        <words>same</words>
+        <words>medium</words>
+        <words>that</words>
+        <words>is</words>
+        <words>the</words>
+        <words>cause</words>
+        <words>of</words>
+        <words>electric</words>
+        <words>and</words>
+        <words>magnetic</words>
+        <words>phenomena</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> 
+
+
+
+
+
+
+The unification     of light and electrical phenomena led to the prediction of the existence of radio waves</sentence>
+        <words></words>
+        <words>The</words>
+        <words>unification</words>
+        <words>of</words>
+        <words>light</words>
+        <words>and</words>
+        <words>electrical</words>
+        <words>phenomena</words>
+        <words>led</words>
+        <words>to</words>
+        <words>the</words>
+        <words>prediction</words>
+        <words>of</words>
+        <words>the</words>
+        <words>existence</words>
+        <words>of</words>
+        <words>radio</words>
+        <words>waves</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> His discoveries helped usher in the era of modern physics, laying the foundation for such fields as special relativity and quantum mechanics</sentence>
+        <words></words>
+        <words>His</words>
+        <words>discoveries</words>
+        <words>helped</words>
+        <words>usher</words>
+        <words>in</words>
+        <words>the</words>
+        <words>era</words>
+        <words>of</words>
+        <words>modern</words>
+        <words>physics,</words>
+        <words>laying</words>
+        <words>the</words>
+        <words>foundation</words>
+        <words>for</words>
+        <words>such</words>
+        <words>fields</words>
+        <words>as</words>
+        <words>special</words>
+        <words>relativity</words>
+        <words>and</words>
+        <words>quantum</words>
+        <words>mechanics</words>
+    </sentenceList>
+    <sentenceList>
+        <nounList>
+            <entityName>Isaac Newton</entityName>
+            <position>97</position>
+            <sentenceFragment> His contributions to the science are considered by many to be of the same magnitude as those of </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>Albert Einstein</entityName>
+            <position>114</position>
+            <sentenceFragment> His contributions to the science are considered by many to be of the same magnitude as those of Isaac Newton and </sentenceFragment>
+        </nounList>
+        <sentence> His contributions to the science are considered by many to be of the same magnitude as those of Isaac Newton and Albert Einstein</sentence>
+        <words></words>
+        <words>His</words>
+        <words>contributions</words>
+        <words>to</words>
+        <words>the</words>
+        <words>science</words>
+        <words>are</words>
+        <words>considered</words>
+        <words>by</words>
+        <words>many</words>
+        <words>to</words>
+        <words>be</words>
+        <words>of</words>
+        <words>the</words>
+        <words>same</words>
+        <words>magnitude</words>
+        <words>as</words>
+        <words>those</words>
+        <words>of</words>
+        <words>Isaac</words>
+        <words>Newton</words>
+        <words>and</words>
+        <words>Albert</words>
+        <words>Einstein</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> QED
+</sentence>
+        <words></words>
+        <words>QED</words>
+    </sentenceList>
+</fileComponent>

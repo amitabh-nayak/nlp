@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fileComponent>
+    <sentenceList>
+        <nounList>
+            <entityName>Broydenâ€“Fletcherâ€“Goldfarbâ€“Shanno</entityName>
+            <position>4</position>
+            <sentenceFragment>The </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>BFGS</entityName>
+            <position>44</position>
+            <sentenceFragment>The Broydenâ€“Fletcherâ€“Goldfarbâ€“Shanno (</sentenceFragment>
+        </nounList>
+        <sentence>The Broydenâ€“Fletcherâ€“Goldfarbâ€“Shanno (BFGS) algorithm is an iterative method for solving unconstrained nonlinear optimization problems</sentence>
+        <words>The</words>
+        <words>Broydenâ€“Fletcherâ€“Goldfarbâ€“Shanno</words>
+        <words>(BFGS)</words>
+        <words>algorithm</words>
+        <words>is</words>
+        <words>an</words>
+        <words>iterative</words>
+        <words>method</words>
+        <words>for</words>
+        <words>solving</words>
+        <words>unconstrained</words>
+        <words>nonlinear</words>
+        <words>optimization</words>
+        <words>problems</words>
+    </sentenceList>
+    <sentenceList>
+        <nounList>
+            <entityName>BFGS</entityName>
+            <position>5</position>
+            <sentenceFragment> The </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>Newton</entityName>
+            <position>30</position>
+            <sentenceFragment> The BFGS method approximates </sentenceFragment>
+        </nounList>
+        <sentence> The BFGS method approximates Newton's method, a class of hill-climbing optimization techniques that seeks a stationary point of a (preferably twice continuously differentiable) function</sentence>
+        <words></words>
+        <words>The</words>
+        <words>BFGS</words>
+        <words>method</words>
+        <words>approximates</words>
+        <words>Newton's</words>
+        <words>method,</words>
+        <words>a</words>
+        <words>class</words>
+        <words>of</words>
+        <words>hill-climbing</words>
+        <words>optimization</words>
+        <words>techniques</words>
+        <words>that</words>
+        <words>seeks</words>
+        <words>a</words>
+        <words>stationary</words>
+        <words>point</words>
+        <words>of</words>
+        <words>a</words>
+        <words>(preferably</words>
+        <words>twice</words>
+        <words>continuously</words>
+        <words>differentiable)</words>
+        <words>function</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> For such problems, a necessary condition for optimality is that the gradient be zero</sentence>
+        <words></words>
+        <words>For</words>
+        <words>such</words>
+        <words>problems,</words>
+        <words>a</words>
+        <words>necessary</words>
+        <words>condition</words>
+        <words>for</words>
+        <words>optimality</words>
+        <words>is</words>
+        <words>that</words>
+        <words>the</words>
+        <words>gradient</words>
+        <words>be</words>
+        <words>zero</words>
+    </sentenceList>
+    <sentenceList>
+        <nounList>
+            <entityName>Newton</entityName>
+            <position>1</position>
+            <sentenceFragment> </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>BFGS</entityName>
+            <position>25</position>
+            <sentenceFragment> Newton's method and the </sentenceFragment>
+        </nounList>
+        <sentence> Newton's method and the BFGS methods are not guaranteed to converge unless the function has a quadratic Taylor expansion near an optimum</sentence>
+        <words></words>
+        <words>Newton's</words>
+        <words>method</words>
+        <words>and</words>
+        <words>the</words>
+        <words>BFGS</words>
+        <words>methods</words>
+        <words>are</words>
+        <words>not</words>
+        <words>guaranteed</words>
+        <words>to</words>
+        <words>converge</words>
+        <words>unless</words>
+        <words>the</words>
+        <words>function</words>
+        <words>has</words>
+        <words>a</words>
+        <words>quadratic</words>
+        <words>Taylor</words>
+        <words>expansion</words>
+        <words>near</words>
+        <words>an</words>
+        <words>optimum</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> These methods use both the first and second derivatives of the function</sentence>
+        <words></words>
+        <words>These</words>
+        <words>methods</words>
+        <words>use</words>
+        <words>both</words>
+        <words>the</words>
+        <words>first</words>
+        <words>and</words>
+        <words>second</words>
+        <words>derivatives</words>
+        <words>of</words>
+        <words>the</words>
+        <words>function</words>
+    </sentenceList>
+    <sentenceList>
+        <nounList>
+            <entityName>BFGS</entityName>
+            <position>10</position>
+            <sentenceFragment> However, </sentenceFragment>
+        </nounList>
+        <sentence> However, BFGS has proven to have good performance even for non-smooth optimizations</sentence>
+        <words></words>
+        <words>However,</words>
+        <words>BFGS</words>
+        <words>has</words>
+        <words>proven</words>
+        <words>to</words>
+        <words>have</words>
+        <words>good</words>
+        <words>performance</words>
+        <words>even</words>
+        <words>for</words>
+        <words>non-smooth</words>
+        <words>optimizations</words>
+    </sentenceList>
+</fileComponent>

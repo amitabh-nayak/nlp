@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fileComponent>
+    <sentenceList>
+        <nounList>
+            <entityName>Montgomery Castle</entityName>
+            <position>0</position>
+            <sentenceFragment></sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>Powys</entityName>
+            <position>83</position>
+            <sentenceFragment>Montgomery Castle is a stone masonry castle looking over the town of Montgomery in </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>Wales</entityName>
+            <position>90</position>
+            <sentenceFragment>Montgomery Castle is a stone masonry castle looking over the town of Montgomery in Powys, </sentenceFragment>
+        </nounList>
+        <sentence>Montgomery Castle is a stone masonry castle looking over the town of Montgomery in Powys, Wales</sentence>
+        <words>Montgomery</words>
+        <words>Castle</words>
+        <words>is</words>
+        <words>a</words>
+        <words>stone</words>
+        <words>masonry</words>
+        <words>castle</words>
+        <words>looking</words>
+        <words>over</words>
+        <words>the</words>
+        <words>town</words>
+        <words>of</words>
+        <words>Montgomery</words>
+        <words>in</words>
+        <words>Powys,</words>
+        <words>Wales</words>
+    </sentenceList>
+    <sentenceList>
+        <nounList>
+            <entityName>Wales</entityName>
+            <position>56</position>
+            <sentenceFragment> It is one of many Norman castles on the border between </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>England</entityName>
+            <position>66</position>
+            <sentenceFragment> It is one of many Norman castles on the border between Wales and </sentenceFragment>
+        </nounList>
+        <sentence> It is one of many Norman castles on the border between Wales and England</sentence>
+        <words></words>
+        <words>It</words>
+        <words>is</words>
+        <words>one</words>
+        <words>of</words>
+        <words>many</words>
+        <words>Norman</words>
+        <words>castles</words>
+        <words>on</words>
+        <words>the</words>
+        <words>border</words>
+        <words>between</words>
+        <words>Wales</words>
+        <words>and</words>
+        <words>England</words>
+    </sentenceList>
+    <sentenceList>
+        <nounList>
+            <entityName>Roger de Montgomery</entityName>
+            <position>47</position>
+            <sentenceFragment> The original castle was built at the order of </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>Shrewsbury</entityName>
+            <position>76</position>
+            <sentenceFragment> The original castle was built at the order of Roger de Montgomery, earl of </sentenceFragment>
+        </nounList>
+        <sentence> The original castle was built at the order of Roger de Montgomery, earl of Shrewsbury sometime between 1071 and 1074</sentence>
+        <words></words>
+        <words>The</words>
+        <words>original</words>
+        <words>castle</words>
+        <words>was</words>
+        <words>built</words>
+        <words>at</words>
+        <words>the</words>
+        <words>order</words>
+        <words>of</words>
+        <words>Roger</words>
+        <words>de</words>
+        <words>Montgomery,</words>
+        <words>earl</words>
+        <words>of</words>
+        <words>Shrewsbury</words>
+        <words>sometime</words>
+        <words>between</words>
+        <words>1071</words>
+        <words>and</words>
+        <words>1074</words>
+    </sentenceList>
+    <sentenceList>
+        <nounList>
+            <entityName>Robert of Belleme</entityName>
+            <position>29</position>
+            <sentenceFragment> On the rebellion of his son </sentenceFragment>
+        </nounList>
+        <sentence> On the rebellion of his son Robert of Belleme in 1102, the castle was given to Baldwin de Boulers</sentence>
+        <words></words>
+        <words>On</words>
+        <words>the</words>
+        <words>rebellion</words>
+        <words>of</words>
+        <words>his</words>
+        <words>son</words>
+        <words>Robert</words>
+        <words>of</words>
+        <words>Belleme</words>
+        <words>in</words>
+        <words>1102,</words>
+        <words>the</words>
+        <words>castle</words>
+        <words>was</words>
+        <words>given</words>
+        <words>to</words>
+        <words>Baldwin</words>
+        <words>de</words>
+        <words>Boulers</words>
+    </sentenceList>
+    <sentenceList>
+        <nounList>
+            <entityName>King Henry III</entityName>
+            <position>73</position>
+            <sentenceFragment> In 1267 Montgomery was the meeting place for treaty negotiations, where </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>Llywelyn ap Gruffudd</entityName>
+            <position>96</position>
+            <sentenceFragment> In 1267 Montgomery was the meeting place for treaty negotiations, where King Henry III granted </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>Prince of Wales</entityName>
+            <position>130</position>
+            <sentenceFragment> In 1267 Montgomery was the meeting place for treaty negotiations, where King Henry III granted Llywelyn ap Gruffudd the title of </sentenceFragment>
+        </nounList>
+        <sentence> In 1267 Montgomery was the meeting place for treaty negotiations, where King Henry III granted Llywelyn ap Gruffudd the title of Prince of Wales</sentence>
+        <words></words>
+        <words>In</words>
+        <words>1267</words>
+        <words>Montgomery</words>
+        <words>was</words>
+        <words>the</words>
+        <words>meeting</words>
+        <words>place</words>
+        <words>for</words>
+        <words>treaty</words>
+        <words>negotiations,</words>
+        <words>where</words>
+        <words>King</words>
+        <words>Henry</words>
+        <words>III</words>
+        <words>granted</words>
+        <words>Llywelyn</words>
+        <words>ap</words>
+        <words>Gruffudd</words>
+        <words>the</words>
+        <words>title</words>
+        <words>of</words>
+        <words>Prince</words>
+        <words>of</words>
+        <words>Wales</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> After 1295 and the final Welsh War of the thirteenth century the castle became more of a military backwater and prison than a front line fortress</sentence>
+        <words></words>
+        <words>After</words>
+        <words>1295</words>
+        <words>and</words>
+        <words>the</words>
+        <words>final</words>
+        <words>Welsh</words>
+        <words>War</words>
+        <words>of</words>
+        <words>the</words>
+        <words>thirteenth</words>
+        <words>century</words>
+        <words>the</words>
+        <words>castle</words>
+        <words>became</words>
+        <words>more</words>
+        <words>of</words>
+        <words>a</words>
+        <words>military</words>
+        <words>backwater</words>
+        <words>and</words>
+        <words>prison</words>
+        <words>than</words>
+        <words>a</words>
+        <words>front</words>
+        <words>line</words>
+        <words>fortress</words>
+    </sentenceList>
+</fileComponent>

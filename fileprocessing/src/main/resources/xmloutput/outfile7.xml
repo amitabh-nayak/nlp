@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fileComponent>
+    <sentenceList>
+        <nounList>
+            <entityName>Apollo 11</entityName>
+            <position>0</position>
+            <sentenceFragment></sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>Moon</entityName>
+            <position>66</position>
+            <sentenceFragment>Apollo 11 was the spaceflight that landed the first humans on the </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>Neil Armstrong</entityName>
+            <position>82</position>
+            <sentenceFragment>Apollo 11 was the spaceflight that landed the first humans on the Moon, Americans </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>Buzz Aldrin</entityName>
+            <position>101</position>
+            <sentenceFragment>Apollo 11 was the spaceflight that landed the first humans on the Moon, Americans Neil Armstrong and </sentenceFragment>
+        </nounList>
+        <sentence>Apollo 11 was the spaceflight that landed the first humans on the Moon, Americans Neil Armstrong and Buzz Aldrin, on July 20, 1969</sentence>
+        <words>Apollo</words>
+        <words>11</words>
+        <words>was</words>
+        <words>the</words>
+        <words>spaceflight</words>
+        <words>that</words>
+        <words>landed</words>
+        <words>the</words>
+        <words>first</words>
+        <words>humans</words>
+        <words>on</words>
+        <words>the</words>
+        <words>Moon,</words>
+        <words>Americans</words>
+        <words>Neil</words>
+        <words>Armstrong</words>
+        <words>and</words>
+        <words>Buzz</words>
+        <words>Aldrin,</words>
+        <words>on</words>
+        <words>July</words>
+        <words>20,</words>
+        <words>1969</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> Armstrong became the first to step onto the lunar surface six hours later</sentence>
+        <words></words>
+        <words>Armstrong</words>
+        <words>became</words>
+        <words>the</words>
+        <words>first</words>
+        <words>to</words>
+        <words>step</words>
+        <words>onto</words>
+        <words>the</words>
+        <words>lunar</words>
+        <words>surface</words>
+        <words>six</words>
+        <words>hours</words>
+        <words>later</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> Armstrong spent about two and a half hours outside the spacecraft, Aldrin slightly less, and together they collected 47</sentence>
+        <words></words>
+        <words>Armstrong</words>
+        <words>spent</words>
+        <words>about</words>
+        <words>two</words>
+        <words>and</words>
+        <words>a</words>
+        <words>half</words>
+        <words>hours</words>
+        <words>outside</words>
+        <words>the</words>
+        <words>spacecraft,</words>
+        <words>Aldrin</words>
+        <words>slightly</words>
+        <words>less,</words>
+        <words>and</words>
+        <words>together</words>
+        <words>they</words>
+        <words>collected</words>
+        <words>47</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence>5 pounds (21</sentence>
+        <words>5</words>
+        <words>pounds</words>
+        <words>(21</words>
+    </sentenceList>
+    <sentenceList>
+        <nounList>
+            <entityName>Earth</entityName>
+            <position>38</position>
+            <sentenceFragment>5 kg) of lunar material for return to </sentenceFragment>
+        </nounList>
+        <sentence>5 kg) of lunar material for return to Earth</sentence>
+        <words>5</words>
+        <words>kg)</words>
+        <words>of</words>
+        <words>lunar</words>
+        <words>material</words>
+        <words>for</words>
+        <words>return</words>
+        <words>to</words>
+        <words>Earth</words>
+    </sentenceList>
+    <sentenceList>
+        <nounList>
+            <entityName>Michael Collins</entityName>
+            <position>34</position>
+            <sentenceFragment> The third member of the mission, </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>Earth</entityName>
+            <position>189</position>
+            <sentenceFragment> The third member of the mission, Michael Collins, piloted the command spacecraft alone in lunar orbit until Armstrong and Aldrin returned to it just under a day later for the trip back to </sentenceFragment>
+        </nounList>
+        <sentence> The third member of the mission, Michael Collins, piloted the command spacecraft alone in lunar orbit until Armstrong and Aldrin returned to it just under a day later for the trip back to Earth</sentence>
+        <words></words>
+        <words>The</words>
+        <words>third</words>
+        <words>member</words>
+        <words>of</words>
+        <words>the</words>
+        <words>mission,</words>
+        <words>Michael</words>
+        <words>Collins,</words>
+        <words>piloted</words>
+        <words>the</words>
+        <words>command</words>
+        <words>spacecraft</words>
+        <words>alone</words>
+        <words>in</words>
+        <words>lunar</words>
+        <words>orbit</words>
+        <words>until</words>
+        <words>Armstrong</words>
+        <words>and</words>
+        <words>Aldrin</words>
+        <words>returned</words>
+        <words>to</words>
+        <words>it</words>
+        <words>just</words>
+        <words>under</words>
+        <words>a</words>
+        <words>day</words>
+        <words>later</words>
+        <words>for</words>
+        <words>the</words>
+        <words>trip</words>
+        <words>back</words>
+        <words>to</words>
+        <words>Earth</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence>
+
+</sentence>
+    </sentenceList>
+</fileComponent>

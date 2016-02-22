@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fileComponent>
+    <sentenceList>
+        <nounList>
+            <entityName>Antikythera</entityName>
+            <position>4</position>
+            <sentenceFragment>The </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>Olympic Games</entityName>
+            <position>180</position>
+            <sentenceFragment>The Antikythera mechanism is an ancient analog computer designed to predict astronomical positions and eclipses for calendrical and astrological purposes, as well as the cycles of </sentenceFragment>
+        </nounList>
+        <sentence>The Antikythera mechanism is an ancient analog computer designed to predict astronomical positions and eclipses for calendrical and astrological purposes, as well as the cycles of Olympic Games</sentence>
+        <words>The</words>
+        <words>Antikythera</words>
+        <words>mechanism</words>
+        <words>is</words>
+        <words>an</words>
+        <words>ancient</words>
+        <words>analog</words>
+        <words>computer</words>
+        <words>designed</words>
+        <words>to</words>
+        <words>predict</words>
+        <words>astronomical</words>
+        <words>positions</words>
+        <words>and</words>
+        <words>eclipses</words>
+        <words>for</words>
+        <words>calendrical</words>
+        <words>and</words>
+        <words>astrological</words>
+        <words>purposes,</words>
+        <words>as</words>
+        <words>well</words>
+        <words>as</words>
+        <words>the</words>
+        <words>cycles</words>
+        <words>of</words>
+        <words>Olympic</words>
+        <words>Games</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence>
+
+Found housed in a 340 Ã— 180 Ã— 90 mm wooden box, the device is a complex clockwork mechanism composed of at least 30 meshing bronze gears</sentence>
+        <words></words>
+        <words>Found</words>
+        <words>housed</words>
+        <words>in</words>
+        <words>a</words>
+        <words>340</words>
+        <words>Ã—</words>
+        <words>180</words>
+        <words>Ã—</words>
+        <words>90</words>
+        <words>mm</words>
+        <words>wooden</words>
+        <words>box,</words>
+        <words>the</words>
+        <words>device</words>
+        <words>is</words>
+        <words>a</words>
+        <words>complex</words>
+        <words>clockwork</words>
+        <words>mechanism</words>
+        <words>composed</words>
+        <words>of</words>
+        <words>at</words>
+        <words>least</words>
+        <words>30</words>
+        <words>meshing</words>
+        <words>bronze</words>
+        <words>gears</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> Its remains were found as 82 separate fragments, of which only seven contain any gears or significant inscriptions</sentence>
+        <words></words>
+        <words>Its</words>
+        <words>remains</words>
+        <words>were</words>
+        <words>found</words>
+        <words>as</words>
+        <words>82</words>
+        <words>separate</words>
+        <words>fragments,</words>
+        <words>of</words>
+        <words>which</words>
+        <words>only</words>
+        <words>seven</words>
+        <words>contain</words>
+        <words>any</words>
+        <words>gears</words>
+        <words>or</words>
+        <words>significant</words>
+        <words>inscriptions</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> The largest gear is approximately 140 mm in diameter</sentence>
+        <words></words>
+        <words>The</words>
+        <words>largest</words>
+        <words>gear</words>
+        <words>is</words>
+        <words>approximately</words>
+        <words>140</words>
+        <words>mm</words>
+        <words>in</words>
+        <words>diameter</words>
+    </sentenceList>
+    <sentenceList>
+        <nounList>
+            <entityName>Antikythera</entityName>
+            <position>46</position>
+            <sentenceFragment>
+
+The artifact was recovered in 1901 from the </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>Antikythera</entityName>
+            <position>92</position>
+            <sentenceFragment>
+
+The artifact was recovered in 1901 from the Antikythera shipwreck off the Greek island of </sentenceFragment>
+        </nounList>
+        <sentence>
+
+The artifact was recovered in 1901 from the Antikythera shipwreck off the Greek island of Antikythera</sentence>
+        <words></words>
+        <words>The</words>
+        <words>artifact</words>
+        <words>was</words>
+        <words>recovered</words>
+        <words>in</words>
+        <words>1901</words>
+        <words>from</words>
+        <words>the</words>
+        <words>Antikythera</words>
+        <words>shipwreck</words>
+        <words>off</words>
+        <words>the</words>
+        <words>Greek</words>
+        <words>island</words>
+        <words>of</words>
+        <words>Antikythera</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> Believed to have been designed and constructed by Greek scientists, the instrument has been dated either between 150 to 100 BC or, according to a more recent view, at 205 BC</sentence>
+        <words></words>
+        <words>Believed</words>
+        <words>to</words>
+        <words>have</words>
+        <words>been</words>
+        <words>designed</words>
+        <words>and</words>
+        <words>constructed</words>
+        <words>by</words>
+        <words>Greek</words>
+        <words>scientists,</words>
+        <words>the</words>
+        <words>instrument</words>
+        <words>has</words>
+        <words>been</words>
+        <words>dated</words>
+        <words>either</words>
+        <words>between</words>
+        <words>150</words>
+        <words>to</words>
+        <words>100</words>
+        <words>BC</words>
+        <words>or,</words>
+        <words>according</words>
+        <words>to</words>
+        <words>a</words>
+        <words>more</words>
+        <words>recent</words>
+        <words>view,</words>
+        <words>at</words>
+        <words>205</words>
+        <words>BC</words>
+    </sentenceList>
+</fileComponent>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fileComponent>
+    <sentenceList>
+        <sentence>Horseshoe crabs are marine arthropods that live primarily in and around shallow ocean waters on soft sandy or muddy bottoms</sentence>
+        <words>Horseshoe</words>
+        <words>crabs</words>
+        <words>are</words>
+        <words>marine</words>
+        <words>arthropods</words>
+        <words>that</words>
+        <words>live</words>
+        <words>primarily</words>
+        <words>in</words>
+        <words>and</words>
+        <words>around</words>
+        <words>shallow</words>
+        <words>ocean</words>
+        <words>waters</words>
+        <words>on</words>
+        <words>soft</words>
+        <words>sandy</words>
+        <words>or</words>
+        <words>muddy</words>
+        <words>bottoms</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> They occasionally come onto shore to mate</sentence>
+        <words></words>
+        <words>They</words>
+        <words>occasionally</words>
+        <words>come</words>
+        <words>onto</words>
+        <words>shore</words>
+        <words>to</words>
+        <words>mate</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> They are commonly used as bait and in fertilizer</sentence>
+        <words></words>
+        <words>They</words>
+        <words>are</words>
+        <words>commonly</words>
+        <words>used</words>
+        <words>as</words>
+        <words>bait</words>
+        <words>and</words>
+        <words>in</words>
+        <words>fertilizer</words>
+    </sentenceList>
+    <sentenceList>
+        <nounList>
+            <entityName>Japan</entityName>
+            <position>110</position>
+            <sentenceFragment> In recent years, a decline in the population has occurred as a consequence of coastal habitat destruction in </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>North America</entityName>
+            <position>159</position>
+            <sentenceFragment> In recent years, a decline in the population has occurred as a consequence of coastal habitat destruction in Japan and overharvesting along the east coast of </sentenceFragment>
+        </nounList>
+        <sentence> In recent years, a decline in the population has occurred as a consequence of coastal habitat destruction in Japan and overharvesting along the east coast of North America</sentence>
+        <words></words>
+        <words>In</words>
+        <words>recent</words>
+        <words>years,</words>
+        <words>a</words>
+        <words>decline</words>
+        <words>in</words>
+        <words>the</words>
+        <words>population</words>
+        <words>has</words>
+        <words>occurred</words>
+        <words>as</words>
+        <words>a</words>
+        <words>consequence</words>
+        <words>of</words>
+        <words>coastal</words>
+        <words>habitat</words>
+        <words>destruction</words>
+        <words>in</words>
+        <words>Japan</words>
+        <words>and</words>
+        <words>overharvesting</words>
+        <words>along</words>
+        <words>the</words>
+        <words>east</words>
+        <words>coast</words>
+        <words>of</words>
+        <words>North</words>
+        <words>America</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> 
+
+Because of their origin 450 million years ago (Mya), horseshoe crabs are considered living fossils</sentence>
+        <words></words>
+        <words>Because</words>
+        <words>of</words>
+        <words>their</words>
+        <words>origin</words>
+        <words>450</words>
+        <words>million</words>
+        <words>years</words>
+        <words>ago</words>
+        <words>(Mya),</words>
+        <words>horseshoe</words>
+        <words>crabs</words>
+        <words>are</words>
+        <words>considered</words>
+        <words>living</words>
+        <words>fossils</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> Horseshoe crabs resemble crustaceans, but belong to a separate subphylum, and are closely related to arachnids</sentence>
+        <words></words>
+        <words>Horseshoe</words>
+        <words>crabs</words>
+        <words>resemble</words>
+        <words>crustaceans,</words>
+        <words>but</words>
+        <words>belong</words>
+        <words>to</words>
+        <words>a</words>
+        <words>separate</words>
+        <words>subphylum,</words>
+        <words>and</words>
+        <words>are</words>
+        <words>closely</words>
+        <words>related</words>
+        <words>to</words>
+        <words>arachnids</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> The earliest horseshoe crab fossils are found in strata from the late Ordovician period, roughly 450 Mya</sentence>
+        <words></words>
+        <words>The</words>
+        <words>earliest</words>
+        <words>horseshoe</words>
+        <words>crab</words>
+        <words>fossils</words>
+        <words>are</words>
+        <words>found</words>
+        <words>in</words>
+        <words>strata</words>
+        <words>from</words>
+        <words>the</words>
+        <words>late</words>
+        <words>Ordovician</words>
+        <words>period,</words>
+        <words>roughly</words>
+        <words>450</words>
+        <words>Mya</words>
+    </sentenceList>
+</fileComponent>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fileComponent>
+    <sentenceList>
+        <nounList>
+            <entityName>Ernst Haeckel</entityName>
+            <position>86</position>
+            <sentenceFragment>The term "First World War" was first used in September 1914 by the German philosopher </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>Europe</entityName>
+            <position>182</position>
+            <sentenceFragment>The term "First World War" was first used in September 1914 by the German philosopher Ernst Haeckel, who claimed that "there is no doubt that the course and character of the feared '</sentenceFragment>
+        </nounList>
+        <sentence>The term "First World War" was first used in September 1914 by the German philosopher Ernst Haeckel, who claimed that "there is no doubt that the course and character of the feared 'European War' </sentence>
+        <words>The</words>
+        <words>term</words>
+        <words>"First</words>
+        <words>World</words>
+        <words>War"</words>
+        <words>was</words>
+        <words>first</words>
+        <words>used</words>
+        <words>in</words>
+        <words>September</words>
+        <words>1914</words>
+        <words>by</words>
+        <words>the</words>
+        <words>German</words>
+        <words>philosopher</words>
+        <words>Ernst</words>
+        <words>Haeckel,</words>
+        <words>who</words>
+        <words>claimed</words>
+        <words>that</words>
+        <words>"there</words>
+        <words>is</words>
+        <words>no</words>
+        <words>doubt</words>
+        <words>that</words>
+        <words>the</words>
+        <words>course</words>
+        <words>and</words>
+        <words>character</words>
+        <words>of</words>
+        <words>the</words>
+        <words>feared</words>
+        <words>'European</words>
+        <words>War'</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> will become the first world war in the full sense of the word</sentence>
+        <words></words>
+        <words>will</words>
+        <words>become</words>
+        <words>the</words>
+        <words>first</words>
+        <words>world</words>
+        <words>war</words>
+        <words>in</words>
+        <words>the</words>
+        <words>full</words>
+        <words>sense</words>
+        <words>of</words>
+        <words>the</words>
+        <words>word</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence>"
+
+Why did the war begin</sentence>
+        <words>"</words>
+        <words>Why</words>
+        <words>did</words>
+        <words>the</words>
+        <words>war</words>
+        <words>begin</words>
+    </sentenceList>
+    <sentenceList>
+        <nounList>
+            <entityName>Franz Ferdinand</entityName>
+            <position>78</position>
+            <sentenceFragment> The immediate trigger for war was the 28 June 1914 assassination of Archduke </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>Austria-Hungary</entityName>
+            <position>128</position>
+            <sentenceFragment> The immediate trigger for war was the 28 June 1914 assassination of Archduke Franz Ferdinand of Austria, heir to the throne of </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>Gavrilo Princip</entityName>
+            <position>169</position>
+            <sentenceFragment> The immediate trigger for war was the 28 June 1914 assassination of Archduke Franz Ferdinand of Austria, heir to the throne of Austria-Hungary, by Yugoslav nationalist </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>Sarajevo</entityName>
+            <position>215</position>
+            <sentenceFragment> The immediate trigger for war was the 28 June 1914 assassination of Archduke Franz Ferdinand of Austria, heir to the throne of Austria-Hungary, by Yugoslav nationalist Gavrilo Princip (19 years old at the time) in </sentenceFragment>
+        </nounList>
+        <sentence> The immediate trigger for war was the 28 June 1914 assassination of Archduke Franz Ferdinand of Austria, heir to the throne of Austria-Hungary, by Yugoslav nationalist Gavrilo Princip (19 years old at the time) in Sarajevo</sentence>
+        <words></words>
+        <words>The</words>
+        <words>immediate</words>
+        <words>trigger</words>
+        <words>for</words>
+        <words>war</words>
+        <words>was</words>
+        <words>the</words>
+        <words>28</words>
+        <words>June</words>
+        <words>1914</words>
+        <words>assassination</words>
+        <words>of</words>
+        <words>Archduke</words>
+        <words>Franz</words>
+        <words>Ferdinand</words>
+        <words>of</words>
+        <words>Austria,</words>
+        <words>heir</words>
+        <words>to</words>
+        <words>the</words>
+        <words>throne</words>
+        <words>of</words>
+        <words>Austria-Hungary,</words>
+        <words>by</words>
+        <words>Yugoslav</words>
+        <words>nationalist</words>
+        <words>Gavrilo</words>
+        <words>Princip</words>
+        <words>(19</words>
+        <words>years</words>
+        <words>old</words>
+        <words>at</words>
+        <words>the</words>
+        <words>time)</words>
+        <words>in</words>
+        <words>Sarajevo</words>
+    </sentenceList>
+    <sentenceList>
+        <nounList>
+            <entityName>Austria-Hungary</entityName>
+            <position>39</position>
+            <sentenceFragment> This set off a diplomatic crisis when </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>Serbia</entityName>
+            <position>96</position>
+            <sentenceFragment> This set off a diplomatic crisis when Austria-Hungary delivered an ultimatum to the Kingdom of </sentenceFragment>
+        </nounList>
+        <sentence> This set off a diplomatic crisis when Austria-Hungary delivered an ultimatum to the Kingdom of Serbia, and entangled international alliances formed over the previous decades were invoked</sentence>
+        <words></words>
+        <words>This</words>
+        <words>set</words>
+        <words>off</words>
+        <words>a</words>
+        <words>diplomatic</words>
+        <words>crisis</words>
+        <words>when</words>
+        <words>Austria-Hungary</words>
+        <words>delivered</words>
+        <words>an</words>
+        <words>ultimatum</words>
+        <words>to</words>
+        <words>the</words>
+        <words>Kingdom</words>
+        <words>of</words>
+        <words>Serbia,</words>
+        <words>and</words>
+        <words>entangled</words>
+        <words>international</words>
+        <words>alliances</words>
+        <words>formed</words>
+        <words>over</words>
+        <words>the</words>
+        <words>previous</words>
+        <words>decades</words>
+        <words>were</words>
+        <words>invoked</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> Within weeks, the major powers were at war and the conflict soon spread around the world</sentence>
+        <words></words>
+        <words>Within</words>
+        <words>weeks,</words>
+        <words>the</words>
+        <words>major</words>
+        <words>powers</words>
+        <words>were</words>
+        <words>at</words>
+        <words>war</words>
+        <words>and</words>
+        <words>the</words>
+        <words>conflict</words>
+        <words>soon</words>
+        <words>spread</words>
+        <words>around</words>
+        <words>the</words>
+        <words>world</words>
+    </sentenceList>
+</fileComponent>

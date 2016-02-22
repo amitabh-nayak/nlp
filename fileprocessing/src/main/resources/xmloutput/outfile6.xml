@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fileComponent>
+    <sentenceList>
+        <nounList>
+            <entityName>Sun Microsystems</entityName>
+            <position>0</position>
+            <sentenceFragment></sentenceFragment>
+        </nounList>
+        <sentence>Sun Microsystems, Inc</sentence>
+        <words>Sun</words>
+        <words>Microsystems,</words>
+        <words>Inc</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> was a company that sold computers, computer components, computer software, and information technology services and that created the Java programming language and the Network File System (NFS)</sentence>
+        <words></words>
+        <words>was</words>
+        <words>a</words>
+        <words>company</words>
+        <words>that</words>
+        <words>sold</words>
+        <words>computers,</words>
+        <words>computer</words>
+        <words>components,</words>
+        <words>computer</words>
+        <words>software,</words>
+        <words>and</words>
+        <words>information</words>
+        <words>technology</words>
+        <words>services</words>
+        <words>and</words>
+        <words>that</words>
+        <words>created</words>
+        <words>the</words>
+        <words>Java</words>
+        <words>programming</words>
+        <words>language</words>
+        <words>and</words>
+        <words>the</words>
+        <words>Network</words>
+        <words>File</words>
+        <words>System</words>
+        <words>(NFS)</words>
+    </sentenceList>
+    <sentenceList>
+        <nounList>
+            <entityName>Sun</entityName>
+            <position>1</position>
+            <sentenceFragment> </sentenceFragment>
+        </nounList>
+        <sentence> Sun significantly evolved several key computing technologies, among them Unix, RISC processors, thin client computing, and virtualized computing</sentence>
+        <words></words>
+        <words>Sun</words>
+        <words>significantly</words>
+        <words>evolved</words>
+        <words>several</words>
+        <words>key</words>
+        <words>computing</words>
+        <words>technologies,</words>
+        <words>among</words>
+        <words>them</words>
+        <words>Unix,</words>
+        <words>RISC</words>
+        <words>processors,</words>
+        <words>thin</words>
+        <words>client</words>
+        <words>computing,</words>
+        <words>and</words>
+        <words>virtualized</words>
+        <words>computing</words>
+    </sentenceList>
+    <sentenceList>
+        <nounList>
+            <entityName>Sun</entityName>
+            <position>1</position>
+            <sentenceFragment> </sentenceFragment>
+        </nounList>
+        <sentence> Sun was founded on February 24, 1982</sentence>
+        <words></words>
+        <words>Sun</words>
+        <words>was</words>
+        <words>founded</words>
+        <words>on</words>
+        <words>February</words>
+        <words>24,</words>
+        <words>1982</words>
+    </sentenceList>
+    <sentenceList>
+        <nounList>
+            <entityName>Sun</entityName>
+            <position>23</position>
+            <sentenceFragment>
+
+On January 27, 2010, </sentenceFragment>
+        </nounList>
+        <nounList>
+            <entityName>Oracle Corporation</entityName>
+            <position>43</position>
+            <sentenceFragment>
+
+On January 27, 2010, Sun was acquired by </sentenceFragment>
+        </nounList>
+        <sentence>
+
+On January 27, 2010, Sun was acquired by Oracle Corporation for US $7</sentence>
+        <words></words>
+        <words>On</words>
+        <words>January</words>
+        <words>27,</words>
+        <words>2010,</words>
+        <words>Sun</words>
+        <words>was</words>
+        <words>acquired</words>
+        <words>by</words>
+        <words>Oracle</words>
+        <words>Corporation</words>
+        <words>for</words>
+        <words>US</words>
+        <words>$7</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence>4 billion</sentence>
+        <words>4</words>
+        <words>billion</words>
+    </sentenceList>
+    <sentenceList>
+        <nounList>
+            <entityName>Sun</entityName>
+            <position>22</position>
+            <sentenceFragment> The following month, </sentenceFragment>
+        </nounList>
+        <sentence> The following month, Sun was merged with Oracle USA, Inc</sentence>
+        <words></words>
+        <words>The</words>
+        <words>following</words>
+        <words>month,</words>
+        <words>Sun</words>
+        <words>was</words>
+        <words>merged</words>
+        <words>with</words>
+        <words>Oracle</words>
+        <words>USA,</words>
+        <words>Inc</words>
+    </sentenceList>
+    <sentenceList>
+        <sentence> to become Oracle America, Inc</sentence>
+        <words></words>
+        <words>to</words>
+        <words>become</words>
+        <words>Oracle</words>
+        <words>America,</words>
+        <words>Inc</words>
+    </sentenceList>
+</fileComponent>
